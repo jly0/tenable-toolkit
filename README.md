@@ -1,4 +1,4 @@
-# tenable-scripts
+# tenable-toolkit
 I hope these help you as much as they've helped me over the years. Open to some feature requests. If you guys need anything, drop me a note
 
 Inventory:
